@@ -1,5 +1,8 @@
 
-<h2>Hi 👋, I'm Butch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hey 👋, I'm Butch. </h2>
+
+- 🔭 I’m currently working on Globe Telecom.
+- 🌱 I’m currently learning on ECS and Kubernetes
 
 <!--
 **ibutcha/ibutcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
