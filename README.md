@@ -1,5 +1,5 @@
 
-<h2>Hi 👋, I'm Charlie Santos, you can call me Butch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi 👋, I'm Butch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **ibutcha/ibutcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
